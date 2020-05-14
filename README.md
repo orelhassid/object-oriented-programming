@@ -55,11 +55,11 @@ benefits:
 - Simpler Interface
 - Reduce the impact of change
 
-# Inheritance
+## Inheritance
 
 Inheritance is a mechanism that allows you to eliminate redundant code.
 
-# Polymorphism
+## Polymorphism
 
 Poly = many
 Morph = Form
@@ -79,7 +79,7 @@ in object-oriented programming we can create objects with a different behavior a
 - Polymorphism
   - Refactor conditional statements
 
-# OUTLINE
+## OUTLINE
 
 - Objects
 - Prototypes
